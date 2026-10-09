@@ -1,3 +1,5 @@
+![Banner](banner-open-model.jpeg)
+
 # Open-Model-0.1B
 
 <div align="justify">
